@@ -319,3 +319,13 @@ body{
 .col-2{
     width: 20%;
 }
+.dot-group .slick-active{
+    transform: scale(1.5);
+    background-color: #F53838;
+    color: #F53838;
+    transition: all .3s;
+}
+.dot-group .slick-active button{
+    background-color: #F53838;
+    color: #F53838;
+}
