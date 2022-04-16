@@ -254,7 +254,7 @@ body{
     position: absolute;
     right: 150px;
     top: 270px; 
-    z-index: -2;
+
 }
 .next img{
     width: 85px;
@@ -268,7 +268,7 @@ body{
     position: absolute;
     right: 214px;
     top: 282px;
-    z-index: -2;  
+
 
 }
 .dot-group{
